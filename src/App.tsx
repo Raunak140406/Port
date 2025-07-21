@@ -11,7 +11,7 @@ import Orb from './components/Orb';
 const navigationItems = [
   { label: 'About', href: '/about' },
   { label: 'Projects', href: '/projects' },
-  { label: 'Poetry', href: '/hobbies' },
+  { label: 'Hobbies', href: '/hobbies' },
   { label: 'Resume', href: '/resume' },
   { label: 'Contact', href: '/contact' },
 ];
